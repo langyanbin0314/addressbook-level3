@@ -105,7 +105,6 @@ Use case ends.
 3. Should come with automated unit tests and open source code.
 4. Should favor DOS style commands over Unix-style commands.
 5. Should respond in 2 seconds
-6. Should auto-save when a changed is made
 
 ## Appendix D : Glossary
 
